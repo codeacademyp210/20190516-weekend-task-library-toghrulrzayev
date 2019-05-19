@@ -1,0 +1,35 @@
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\Library.exe.config
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\Library.exe
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\Library.pdb
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.exe
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library Task\Library\Library\obj\Debug\Library.pdb
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Authors.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Categories.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Clients.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Orders.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.exe
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.pdb
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\Library.exe.config
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\Library.exe
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\Library.pdb
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\19.05.2019 Homework Task\Library Task\Library\Library\obj\Debug\Library.csproj.CopyComplete
